@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Haesung Cho"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "download.jpg"
   bio              : "I am a philosopher"
   location         : "Seoul, South Korea"
   email            : "inandforitself@naver.com"
