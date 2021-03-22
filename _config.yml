@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "aqua"
 # Site Settings
 locale                   : "US"
 title                    : "Philosophy Lab"
-title_separator          : "-"
+title_separator          : "This lab investigates the nature itself"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Haesung Cho"
-description              : "This lab investigates philosophy"
+description              : "This lab studies on philosophy"
 url                      : "http://hegel700827.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
