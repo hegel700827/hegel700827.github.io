@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "aqua"
 # Site Settings
 locale                   : "US"
 title                    : "Philosophy Lab"
-title_separator          : "This lab investigates the nature itself"
+title_separator          : 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Haesung Cho"
 description              : "This lab studies on philosophy"
