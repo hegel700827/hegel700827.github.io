@@ -35,7 +35,7 @@ comments:
     shortname            : "https-hegel700827-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
+  facebook: 
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
@@ -72,9 +72,9 @@ naver_site_verification  :
 # Social Sharing
 twitter:
   username               :
-facebook: "https://www.facebook.com/georg.hegel.923"
-  username               : "Haesung Cho"
-  app_id                 :
+facebook: 
+  username               :
+  app_id                 : 
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
