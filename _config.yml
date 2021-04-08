@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Haesung Cho"
-  avatar           : "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hegel_by_Schlesinger.jpg"
+  avatar           : "/assets/images/다운로드.jpg"
   bio              : "I am a philosopher"
   location         : "Seoul, South Korea"
   email            : "inandforitself@naver.com"
